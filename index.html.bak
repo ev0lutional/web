@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Evolutional.io</title>
+		<style>
+			p{font-size:1em;}
+			aside{float:right;}
+		</style>
+		<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+	</head>
+	<body>
+
+		<h1>Moi</h1>
+		<p>🚧</p>
+<p>Lionel Louveau</p>
+<p><a href="mailto:contact@evolutional.io">Contact me</a></p>
+
+Consultant assistance à maîtrise d’ouvrage & pilotage
+<p>Contribuer pleinement à des projets depuis la phase amont jusqu’à la mise en service dans un délai court (quelques mois) en adaptant les méthodes, dans un environnement technique complexe, au service des métiers</p>
+
+<aside>
+	<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="vertical" data-theme="light" data-vanity="lionel-louveau-0a18161b"><a class="LI-simple-link" href='https://fr.linkedin.com/in/lionel-louveau-0a18161b?trk=profile-badge'>Lionel LOUVEAU</a></div>
+</aside>
+
+
+	</body>
+</html>
